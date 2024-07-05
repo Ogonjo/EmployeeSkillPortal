@@ -28,3 +28,4 @@
 /home/monica/Documents/DATABASE/EmployeeSkillsPortal/EmployeeSkillsPortal/obj/Debug/net8.0/EmployeeSkillsPortal.pdb
 /home/monica/Documents/DATABASE/EmployeeSkillsPortal/EmployeeSkillsPortal/obj/Debug/net8.0/EmployeeSkillsPortal.genruntimeconfig.cache
 /home/monica/Documents/DATABASE/EmployeeSkillsPortal/EmployeeSkillsPortal/obj/Debug/net8.0/ref/EmployeeSkillsPortal.dll
+/home/monica/Documents/DATABASE/EmployeeSkillsPortal/EmployeeSkillsPortal/obj/Debug/net8.0/EmployeeSkillsPortal.sourcelink.json
